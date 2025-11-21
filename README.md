@@ -30,5 +30,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KienNguyenk64&repo=FINANCE&theme=synthwave" />
 </a>
+<a href="https://github.com/KienNguyenk64/Texttospeak.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KienNguyenk64&repo=TextToSpeech&theme=onedark" />
+</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KienNguyenk64&layout=compact&langs_count=8)
