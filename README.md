@@ -34,5 +34,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KienNguyenk64&repo=Texttospeak&theme=onedark" />
 </a>
+<a https://github.com/KienNguyenk64/Tour-Management.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KienNguyenk64&repo=Tour-Management&theme=dracula" />
+</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KienNguyenk64&layout=compact&langs_count=8)
